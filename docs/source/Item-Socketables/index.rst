@@ -6,7 +6,7 @@ Socketables 镶嵌物
 
 参考资料:
 
-- https://torchlight.fandom.com/wiki/Gems_(T2)
+- `Gems <https://torchlight.fandom.com/wiki/Gems_(T2)>`_
 
 
 Normal gems 普通宝石
@@ -791,7 +791,7 @@ Unique eyes have a chance (usually 15%) to drop from the boss monster whose name
 
 眼睛类镶嵌物由同名 Boss 掉落而来. 大约有 15% 的几率会掉落宝石. 有一些眼睛的属性会根据 NG 的级别增加. 由于该类宝石属性固定, 掉落来源固定, 所有可以刷指定 Boss 稳定获得某些宝石.
 
-.. raw::
+.. raw:: html
 
     <table border="1" class="sortable jquery-tablesorter" style="width:100%; border-collapse:collapse; text-align:center;">
     <thead><tr>
@@ -1073,7 +1073,7 @@ With a few exceptions, most unique skulls are random drops.
 
 - Skull of Limoany: 镶嵌在防具上, 所有伤害减少 5%. 由 53 - 62 级之间的怪物掉落. 可以在 NG+ 级别在 Act1 前中期获得.
 
-.. raw::
+.. raw:: html
 
     <table border="1" class="sortable jquery-tablesorter" style="width:100%; border-collapse:collapse; text-align:center;">
     <thead><tr>
