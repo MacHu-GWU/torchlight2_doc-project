@@ -21,8 +21,8 @@ Speed Run By Cheating
 5. ``dungeon FORSAKENVAULTS``, 传送 (或者走进去, 就在旁边) 到 ``失落的宝库`` 杀 Boss 完成任务.
 6. ``dungeon ZERYPHESH``, 传送到 ``赛瑞菲什`` 交任务. 接到需要跟 ``灯神`` 谈话, 了解解救 ``魔法守护者`` 的方法.
 7. ``dungeon SALTBARRENS``, 传送到 ``盐碱荒地`` 找到 ``灯神``.
-8. ``dungeon KORARICAVE``, 传送到 ``克拉里山洞`` 做 ``灯神`` 给的第一个任务. 或者直接使用 ``DjinniTask1Item`` 获得任务物品.
-9. 找灯神交任务, 进传送门分别完成 ``灯神`` 给的第二第三个任务, ``通过光明竞技场`` 和 ``击败灯神``.
+8. ``dungeon KORARICAVE``, 传送到 ``克拉里山洞`` 做 ``灯神`` 给的第一个任务. (这里不能直接使用 ``DjinniTask1Item`` 获得任务物品, 你需要进入地下城触发剧情).
+9. 找灯神交任务, 进传送门分别完成 ``灯神`` 给的第二第三个任务, ``通过光明竞技场`` 和 ``击败灯神``. 其中 ``通过光明竞技场`` 无法通过传送完成. 而 ``击败灯神`` 可以直接 ``dungeon JEHANNUM`` 传送到 Boss 战.
 10. ``dungeon RIFTKEEP``, 传送到 ``裂痕要塞``, 杀 Boss 完成 Act2 的最终任务.
 11. ``dungeon ZERYPHESH``, 回城与 NPC 对话, 前往 Act3.
 
@@ -36,6 +36,6 @@ Speed Run By Cheating
 6. ``dungeon TOWN3``, 传送到 ``帝国大营`` 交接任务. 接到为 ``能量源`` 充能的任务.
 7. ``dungeon BATTLEFIELD``, 传送到 ``破碎战场``, 找到 ``烬石工厂`` 门前, 发现门关住了, 得知需要到 ``遗忘大厅`` 获得 ``王冠`` 才能打开门.
 8. ``dungeon FORGOTTENHALLS``, 传送到 ``遗忘大厅``, 杀 Boss 龙获得任务物品 ``王冠``. 或者直接使用 ``A3-Goblin_Crown`` 获得任务物品.
-9. ``dungeon WARFORGE``, 传送到 ``战争熔炉`` (或者从 ``烬石工厂`` 走过去), 杀 Boss 泰坦机器人给 ``能量源`` 充能.
+9. ``dungeon WARFORGE``, 传送到 ``战争熔炉`` (或者从 ``烬石工厂`` 走过去), 杀 Boss 泰坦机器人给 ``能量源`` 充能. 或者直接使用 ``A3-AutomatonPowerSourceFull`` 获得任务物品.
 10. ``dungeon TOWN3``, 传送到 ``帝国大营`` 交任务, 打开了大门, 前往 ``矿山镇`` 追踪 ``炼金术士``.
-11. ``dungeon DWARVENLABS``, 传送到 ``破碎矿井``, 连下 5 层分别杀死 ``炼金术士`` 和 ``冥界之主``, 完成 Act3 的最终任务.
+11. ``dungeon DWARVENLABS``, 传送到 ``破碎矿井``, 连下 5 层分别杀死 ``炼金术士`` 和 ``冥界之主``, 完成 Act3 的最终任务. 可以用 ``descend`` 命令直接下到底层.
