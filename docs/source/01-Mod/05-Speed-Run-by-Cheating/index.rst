@@ -22,7 +22,7 @@ Speed Run By Cheating
 6. ``dungeon ZERYPHESH``, 传送到 ``赛瑞菲什`` 交任务. 接到需要跟 ``灯神`` 谈话, 了解解救 ``魔法守护者`` 的方法.
 7. ``dungeon SALTBARRENS``, 传送到 ``盐碱荒地`` 找到 ``灯神``.
 8. ``dungeon KORARICAVE``, 传送到 ``克拉里山洞`` 做 ``灯神`` 给的第一个任务. 或者直接使用 ``DjinniTask1Item`` 获得任务物品.
-9. 找灯神交任务, 进传送门分别完成 ``灯神`` 给的第二第三个任务. 或者直接使用 ``DjinniTask3Item`` 获得任务物品.
+9. 找灯神交任务, 进传送门分别完成 ``灯神`` 给的第二第三个任务, ``通过光明竞技场`` 和 ``击败灯神``.
 10. ``dungeon RIFTKEEP``, 传送到 ``裂痕要塞``, 杀 Boss 完成 Act2 的最终任务.
 11. ``dungeon ZERYPHESH``, 回城与 NPC 对话, 前往 Act3.
 
