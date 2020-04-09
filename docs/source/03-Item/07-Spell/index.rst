@@ -1,8 +1,11 @@
-
 .. _spell:
 
 Spell 法术
 ==============================================================================
+
+.. contents::
+    :depth: 1
+    :local:
 
 法术 与 技能 不同, 法术是由 法术卷轴 物品上学习获得. 每个人物同一时间只能学习 4 个法术.
 
@@ -43,6 +46,9 @@ Spell 法术
     - 提高减速和定身的抗性
     - 减少武器装备的需求, 提高近战武器的伤害
 
+
+主动法术
+------------------------------------------------------------------------------
 
 .. raw:: html
 
@@ -878,4 +884,546 @@ Spell 法术
     </td><td><span style="color: #2C82B5">Movement speed reduced by 100% for 3 seconds </span>
     </td><td>25
     </td><td>8
+    </td></tr></tbody><tfoot></tfoot></table>
+
+被动法术
+------------------------------------------------------------------------------
+
+.. raw:: html
+
+    <table class="sortable jquery-tablesorter" cellspacing="0" cellpadding="5" border="1" style="font-size: 90%; border-collapse: collapse; border: 1px solid #AAAAAA; margin: auto;">
+
+    <thead><tr style="background: #302020;">
+    <th class="headerSort" title="Sort ascending">Icons
+    <div><span class="chevron"></span><span class="chevron"></span></div></th><th class="headerSort" title="Sort ascending">Tome
+    <div><span class="chevron"></span><span class="chevron"></span></div></th><th class="headerSort" title="Sort ascending">Description
+    <div><span class="chevron"></span><span class="chevron"></span></div></th><th class="headerSort" title="Sort ascending">Effects
+    <div><span class="chevron"></span><span class="chevron"></span></div></th><th class="headerSort" title="Sort ascending">Required<br>level
+    <div><span class="chevron"></span><span class="chevron"></span></div></th></tr></thead><tbody>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/7/7b/Spell_adrenalinrush.jpg/revision/latest?cb=20120928101440" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/7/7b/Spell_adrenalinrush.jpg/revision/latest/scale-to-width-down/50?cb=20120928101440" alt="Spell adrenalinrush" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_adrenalinrush.jpg" data-image-name="Spell adrenalinrush.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/7/7b/Spell_adrenalinrush.jpg/revision/latest/scale-to-width-down/50?cb=20120928101440" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/7/7b/Spell_adrenalinrush.jpg/revision/latest/scale-to-width-down/50?cb=20120928101440" 	 alt="Spell adrenalinrush"  	class="" 	 	data-image-key="Spell_adrenalinrush.jpg" 	data-image-name="Spell adrenalinrush.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Adrenaline Rush I "Adrenaline Rush"
+    </td><td>You have a passive 15% chance on being struck to gain a burst of speed, granting you the ability to attack faster or escape safely. Once triggered Adrenaline Rush has a 10 second cooldown
+    </td><td><span style="color: #2C82B5">10% faster movement speed for 4 seconds<br>+10% attack speed for 4 seconds</span>
+    </td><td>10
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/7/7b/Spell_adrenalinrush.jpg/revision/latest?cb=20120928101440" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/7/7b/Spell_adrenalinrush.jpg/revision/latest/scale-to-width-down/50?cb=20120928101440" alt="Spell adrenalinrush" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_adrenalinrush.jpg" data-image-name="Spell adrenalinrush.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/7/7b/Spell_adrenalinrush.jpg/revision/latest/scale-to-width-down/50?cb=20120928101440" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/7/7b/Spell_adrenalinrush.jpg/revision/latest/scale-to-width-down/50?cb=20120928101440" 	 alt="Spell adrenalinrush"  	class="" 	 	data-image-key="Spell_adrenalinrush.jpg" 	data-image-name="Spell adrenalinrush.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>
+    <p>Adrenaline Rush II "Adrenaline Burst"
+    </p>
+    </td><td>You have a passive 15% chance on being struck to gain a burst of speed, granting you the ability to attack faster or escape safely. Once triggered Adrenaline Rush has a 10 second cooldown
+    </td><td><span style="color:rgb(44,130,181);">15% faster movement speed for 4 seconds</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">+15% attack speed for 4 seconds</span>
+    </td><td>32
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/7/7b/Spell_adrenalinrush.jpg/revision/latest?cb=20120928101440" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/7/7b/Spell_adrenalinrush.jpg/revision/latest/scale-to-width-down/50?cb=20120928101440" alt="Spell adrenalinrush" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_adrenalinrush.jpg" data-image-name="Spell adrenalinrush.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/7/7b/Spell_adrenalinrush.jpg/revision/latest/scale-to-width-down/50?cb=20120928101440" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/7/7b/Spell_adrenalinrush.jpg/revision/latest/scale-to-width-down/50?cb=20120928101440" 	 alt="Spell adrenalinrush"  	class="" 	 	data-image-key="Spell_adrenalinrush.jpg" 	data-image-name="Spell adrenalinrush.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Adrenaline Rush III "Adrenaline Shock"
+    </td><td>You have a passive 15% chance on being struck to gain a burst of speed, granting you the ability to attack faster or escape safely. Once triggered Adrenaline Rush has a 10 second cooldown
+    </td><td><span style="color: #2C82B5">20% faster movement speed for 4 seconds<br>+20% attack speed for 4 seconds</span>
+    </td><td>50
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest?cb=20120926042746" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" alt="Spell adventuring" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_adventuring.jpg" data-image-name="Spell adventuring.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" 	 alt="Spell adventuring"  	class="" 	 	data-image-key="Spell_adventuring.jpg" 	data-image-name="Spell adventuring.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Adventuring I
+    </td><td>Knowledge the improves the potency of potions, increases Experience and Fame gain, and reduces resurrection penalties. Only one Adventuring spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">1% increase in amount of experience gained<br>3% increase in amount of fame gained<br>+8% potion effectiveness </span>
+    </td><td>1
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest?cb=20120926042746" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" alt="Spell adventuring" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_adventuring.jpg" data-image-name="Spell adventuring.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" 	 alt="Spell adventuring"  	class="" 	 	data-image-key="Spell_adventuring.jpg" 	data-image-name="Spell adventuring.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Adventuring II
+    </td><td>Knowledge the improves the potency of potions, increases Experience and Fame gain, and reduces resurrection penalties. Only one Adventuring spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">2% increase in amount of experience gained<br>3% increase in amount of fame gained<br>+16% potion effectiveness </span>
+    </td><td>16
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest?cb=20120926042746" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" alt="Spell adventuring" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_adventuring.jpg" data-image-name="Spell adventuring.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" 	 alt="Spell adventuring"  	class="" 	 	data-image-key="Spell_adventuring.jpg" 	data-image-name="Spell adventuring.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Adventuring III
+    </td><td>Knowledge the improves the potency of potions, increases Experience and Fame gain, and reduces resurrection penalties. Only one Adventuring spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">3% increase in amount of experience gained<br>3% increase in amount of fame gained<br>+24% potion effectiveness</span>
+    </td><td>31
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest?cb=20120926042746" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" alt="Spell adventuring" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_adventuring.jpg" data-image-name="Spell adventuring.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" 	 alt="Spell adventuring"  	class="" 	 	data-image-key="Spell_adventuring.jpg" 	data-image-name="Spell adventuring.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Adventuring IV
+    </td><td>Knowledge the improves the potency of potions, increases Experience and Fame gain, and reduces resurrection penalties. Only one Adventuring spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">4% increase in amount of experience gained<br>4% increase in amount of fame gained<br>+32% potion effectiveness</span>
+    </td><td>46
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest?cb=20120926042746" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" alt="Spell adventuring" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_adventuring.jpg" data-image-name="Spell adventuring.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" 	 alt="Spell adventuring"  	class="" 	 	data-image-key="Spell_adventuring.jpg" 	data-image-name="Spell adventuring.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Adventuring V
+    </td><td>Knowledge the improves the potency of potions, increases Experience and Fame gain, and reduces resurrection penalties. Only one Adventuring spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">5% increase in amount of experience gained<br>5% increase in amount of fame gained<br>+40% potion effectiveness</span>
+    </td><td>60
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest?cb=20120926042746" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" alt="Spell adventuring" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_adventuring.jpg" data-image-name="Spell adventuring.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/6a/Spell_adventuring.jpg/revision/latest/scale-to-width-down/50?cb=20120926042746" 	 alt="Spell adventuring"  	class="" 	 	data-image-key="Spell_adventuring.jpg" 	data-image-name="Spell adventuring.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Adventuring VI
+    </td><td>Knowledge the improves the potency of potions, increases Experience and Fame gain, and reduces resurrection penalties. Only one Adventuring spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">6% increase in amount of experience gained</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">6% increase in amount of fame gained</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">+48% potion effectiveness</span>
+    </td><td>76
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest?cb=20120926045526" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" alt="Spell animalHandling" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_animalHandling.jpg" data-image-name="Spell animalHandling.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" 	 alt="Spell animalHandling"  	class="" 	 	data-image-key="Spell_animalHandling.jpg" 	data-image-name="Spell animalHandling.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Animal Handling I
+    </td><td>Training that increases your pet and minion's power, and decreases the pet's town-travel time. Only one rank of Animal Handling may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">4% pet and minion Damage</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">4% pet and minion Armor</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">8% decreased pet town travel time</span>
+    </td><td>1
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest?cb=20120926045526" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" alt="Spell animalHandling" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_animalHandling.jpg" data-image-name="Spell animalHandling.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" 	 alt="Spell animalHandling"  	class="" 	 	data-image-key="Spell_animalHandling.jpg" 	data-image-name="Spell animalHandling.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Animal Handling II
+    </td><td>Training that increases your pet and minion's power, and decreases the pet's town-travel time. Only one rank of Animal Handling may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">8% pet and minion Damage</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">8% pet and minion Armor</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">16% decreased pet town travel time</span>
+    </td><td>16
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest?cb=20120926045526" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" alt="Spell animalHandling" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_animalHandling.jpg" data-image-name="Spell animalHandling.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" 	 alt="Spell animalHandling"  	class="" 	 	data-image-key="Spell_animalHandling.jpg" 	data-image-name="Spell animalHandling.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Animal Handling III
+    </td><td>Increases your pet and minion's power, and decreases the pet's town-travel time. Only one Pet Mastery spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">12% pet and minion Damage<br>12% pet and minion Armor<br>24% decreased pet town travel time</span>
+    </td><td>31
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest?cb=20120926045526" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" alt="Spell animalHandling" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_animalHandling.jpg" data-image-name="Spell animalHandling.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" 	 alt="Spell animalHandling"  	class="" 	 	data-image-key="Spell_animalHandling.jpg" 	data-image-name="Spell animalHandling.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Animal Handling IV
+    </td><td>Increases your pet and minion's power, and decreases the pet's town-travel time. Only one Pet Mastery spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">16% pet and minion Damage</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">16% pet and minion Armor</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">32% decreased pet town travel time</span>
+    </td><td>46
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest?cb=20120926045526" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" alt="Spell animalHandling" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_animalHandling.jpg" data-image-name="Spell animalHandling.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" 	 alt="Spell animalHandling"  	class="" 	 	data-image-key="Spell_animalHandling.jpg" 	data-image-name="Spell animalHandling.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Animal Handling V
+    </td><td>Increases your pet and minion's power, and decreases the pet's town-travel time. Only one Pet Mastery spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">20% pet and minion Damage</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">20% pet and minion Armor</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">40% decreased pet town travel time</span>
+    </td><td>60
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest?cb=20120926045526" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" alt="Spell animalHandling" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_animalHandling.jpg" data-image-name="Spell animalHandling.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/f/ff/Spell_animalHandling.jpg/revision/latest/scale-to-width-down/50?cb=20120926045526" 	 alt="Spell animalHandling"  	class="" 	 	data-image-key="Spell_animalHandling.jpg" 	data-image-name="Spell animalHandling.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Animal Handling VI
+    </td><td>Increases your pet and minion's power, and decreases the pet's town-travel time. Only one Pet Mastery spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">24% pet and minion Damage</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">24% pet and minion Armor</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">48% decreased pet town travel time</span>
+    </td><td>76
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest?cb=20120926045539" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" alt="Spell arcaneTools" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_arcaneTools.jpg" data-image-name="Spell arcaneTools.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" 	 alt="Spell arcaneTools"  	class="" 	 	data-image-key="Spell_arcaneTools.jpg" 	data-image-name="Spell arcaneTools.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Arcane Tools I
+    </td><td>Grants Mastery of Wands and Staves and grants reduced requirements for Rings and Amulets. Only one Arcane Tools spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-1 to mage equipment requirements</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">+4% Wand and Staff Damage Bonus</span>
+    </td><td>1
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest?cb=20120926045539" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" alt="Spell arcaneTools" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_arcaneTools.jpg" data-image-name="Spell arcaneTools.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" 	 alt="Spell arcaneTools"  	class="" 	 	data-image-key="Spell_arcaneTools.jpg" 	data-image-name="Spell arcaneTools.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Arcane Tools II
+    </td><td>Grants Mastery of Wands and Staves and grants reduced requirements for Rings and Amulets. Only one Arcane Tools spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">-2 to mage equipment requirements<br>+8% Wand and Staff Damage Bonus </span>
+    </td><td>16
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest?cb=20120926045539" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" alt="Spell arcaneTools" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_arcaneTools.jpg" data-image-name="Spell arcaneTools.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" 	 alt="Spell arcaneTools"  	class="" 	 	data-image-key="Spell_arcaneTools.jpg" 	data-image-name="Spell arcaneTools.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Arcane Tools III
+    </td><td>Grants Mastery of Wands and Staves and grants reduced requirements for Rings and Amulets. Only one Arcane Tools spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-3 to mage equipment requirements</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">+12% Wand and Staff Damage Bonus</span>
+    </td><td>31
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest?cb=20120926045539" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" alt="Spell arcaneTools" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_arcaneTools.jpg" data-image-name="Spell arcaneTools.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" 	 alt="Spell arcaneTools"  	class="" 	 	data-image-key="Spell_arcaneTools.jpg" 	data-image-name="Spell arcaneTools.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Arcane Tools IV
+    </td><td>Knowledge that increases the damage of Wands and Staves and reduces the requirements for Rings and Amulets. Only one rank of Arcane Tools may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-4 to mage equipment requirements</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">+16% Wand and Staff Damage Bonus</span>
+    </td><td>46
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest?cb=20120926045539" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" alt="Spell arcaneTools" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_arcaneTools.jpg" data-image-name="Spell arcaneTools.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" 	 alt="Spell arcaneTools"  	class="" 	 	data-image-key="Spell_arcaneTools.jpg" 	data-image-name="Spell arcaneTools.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Arcane Tools V
+    </td><td>Grants Mastery of Wands and Staves and grants reduced requirements for Rings and Amulets. Only one Arcane Tools spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-5 to mage equipment requirements</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">+20% Wand and Staff Damage Bonus</span>
+    </td><td>60
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest?cb=20120926045539" class="image image-thumbnail"><img src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" alt="Spell arcaneTools" class="lzyPlcHld lzyTrns lzyLoaded" data-image-key="Spell_arcaneTools.jpg" data-image-name="Spell arcaneTools.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/2/22/Spell_arcaneTools.jpg/revision/latest/scale-to-width-down/50?cb=20120926045539" 	 alt="Spell arcaneTools"  	class="" 	 	data-image-key="Spell_arcaneTools.jpg" 	data-image-name="Spell arcaneTools.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Arcane Tools VI
+    </td><td>Grants Mastery of Wands and Staves and grants reduced requirements for Rings and Amulets. Only one Arcane Tools spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-6 to mage equipment requirements</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">+24% Wand and Staff Damage Bonus</span>
+    </td><td>76
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest?cb=20121002221332" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell armorExpertise" class="lzy lzyPlcHld " data-image-key="Spell_armorExpertise.jpg" data-image-name="Spell armorExpertise.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20121002221332" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20121002221332" 	 alt="Spell armorExpertise"  	class="" 	 	data-image-key="Spell_armorExpertise.jpg" 	data-image-name="Spell armorExpertise.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Armor Expertise I
+    </td><td>Mastery of all forms of armor reduces requirements and improves armor absorption. Only one Armor Expertise spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">-1 to armor equipment requirements<br>+4% to physical Armor</span>
+    </td><td>1
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest?cb=20121002221332" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell armorExpertise" class="lzy lzyPlcHld " data-image-key="Spell_armorExpertise.jpg" data-image-name="Spell armorExpertise.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20121002221332" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20121002221332" 	 alt="Spell armorExpertise"  	class="" 	 	data-image-key="Spell_armorExpertise.jpg" 	data-image-name="Spell armorExpertise.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Armor Expertise II
+    </td><td>Mastery of all forms of armor reduces requirements and improves armor absorption. Only one Armor Expertise spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">-2 to armor equipment requirements<br>+8% to physical armor</span>
+    </td><td>16
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest?cb=20121002221332" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell armorExpertise" class="lzy lzyPlcHld " data-image-key="Spell_armorExpertise.jpg" data-image-name="Spell armorExpertise.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20121002221332" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20121002221332" 	 alt="Spell armorExpertise"  	class="" 	 	data-image-key="Spell_armorExpertise.jpg" 	data-image-name="Spell armorExpertise.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Armor Expertise III
+    </td><td>Mastery of all forms of armor reduces requirements and improves armor absorption. Only one Armor Expertise spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">-3 to armor equipment requirements<br>+12% to physical armor </span>
+    </td><td>31
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest?cb=20121002221332" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell armorExpertise" class="lzy lzyPlcHld " data-image-key="Spell_armorExpertise.jpg" data-image-name="Spell armorExpertise.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20121002221332" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20121002221332" 	 alt="Spell armorExpertise"  	class="" 	 	data-image-key="Spell_armorExpertise.jpg" 	data-image-name="Spell armorExpertise.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Armor Expertise IV
+    </td><td>Mastery of all forms of armor reduces requirements and improves armor absorption. Only one Armor Expertise spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-4 to armor equipment requirements<br>+16% to physical armor</span>
+    </td><td>46
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest?cb=20121002221332" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell armorExpertise" class="lzy lzyPlcHld " data-image-key="Spell_armorExpertise.jpg" data-image-name="Spell armorExpertise.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20121002221332" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20121002221332" 	 alt="Spell armorExpertise"  	class="" 	 	data-image-key="Spell_armorExpertise.jpg" 	data-image-name="Spell armorExpertise.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Armor Expertise V
+    </td><td>Mastery of all forms of armor reduces requirements and improves armor absorption. Only one Armor Expertise spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-5 to armor equipment requirements<br>+20% to physical armor</span>
+    </td><td>60
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest?cb=20121002221332" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell armorExpertise" class="lzy lzyPlcHld " data-image-key="Spell_armorExpertise.jpg" data-image-name="Spell armorExpertise.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20121002221332" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/6/67/Spell_armorExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20121002221332" 	 alt="Spell armorExpertise"  	class="" 	 	data-image-key="Spell_armorExpertise.jpg" 	data-image-name="Spell armorExpertise.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Armor Expertise VI
+    </td><td>Mastery of all forms of armor reduces requirements and improves armor absorption. Only one Armor Expertise spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-6 to armor equipment requirements<br>+24% to physical armor</span>
+    </td><td>76
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest?cb=20120926045556" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell barter" class="lzy lzyPlcHld " data-image-key="Spell_barter.jpg" data-image-name="Spell barter.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest/scale-to-width-down/50?cb=20120926045556" width="50" height="44" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest/scale-to-width-down/50?cb=20120926045556" 	 alt="Spell barter"  	class="" 	 	data-image-key="Spell_barter.jpg" 	data-image-name="Spell barter.jpg" 	 	 width="50"  	 height="44"  	 	 	 	></noscript></a>
+    </td><td>Barter I
+    </td><td>Reduces the purchase prices at Merchants, Enchanters, and Gamblers. Improves the sale prices of your own goods. Only one Barter spell may be equipped at a time. (Pets gain no benefit.)
+    </td><td><span style="color: #2C82B5">3% improvement in vendor prices </span>
+    </td><td>1
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest?cb=20120926045556" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell barter" class="lzy lzyPlcHld " data-image-key="Spell_barter.jpg" data-image-name="Spell barter.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest/scale-to-width-down/50?cb=20120926045556" width="50" height="44" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest/scale-to-width-down/50?cb=20120926045556" 	 alt="Spell barter"  	class="" 	 	data-image-key="Spell_barter.jpg" 	data-image-name="Spell barter.jpg" 	 	 width="50"  	 height="44"  	 	 	 	></noscript></a>
+    </td><td>Barter II
+    </td><td>Reduces the purchase prices at Merchants, Enchanters, and Gamblers. Improves the sale prices of your own goods. Only one Barter spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">6% improvement in vendor prices </span>
+    </td><td>16
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest?cb=20120926045556" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell barter" class="lzy lzyPlcHld " data-image-key="Spell_barter.jpg" data-image-name="Spell barter.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest/scale-to-width-down/50?cb=20120926045556" width="50" height="44" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest/scale-to-width-down/50?cb=20120926045556" 	 alt="Spell barter"  	class="" 	 	data-image-key="Spell_barter.jpg" 	data-image-name="Spell barter.jpg" 	 	 width="50"  	 height="44"  	 	 	 	></noscript></a>
+    </td><td>Barter III
+    </td><td>Reduces the purchase prices at Merchants, Enchanters, and Gamblers. Improves the sale prices of your own goods. Only one Barter spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">9% improvement in vendor prices </span>
+    </td><td>31
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest?cb=20120926045556" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell barter" class="lzy lzyPlcHld " data-image-key="Spell_barter.jpg" data-image-name="Spell barter.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest/scale-to-width-down/50?cb=20120926045556" width="50" height="44" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest/scale-to-width-down/50?cb=20120926045556" 	 alt="Spell barter"  	class="" 	 	data-image-key="Spell_barter.jpg" 	data-image-name="Spell barter.jpg" 	 	 width="50"  	 height="44"  	 	 	 	></noscript></a>
+    </td><td>Barter IV
+    </td><td>Reduces the purchase prices at Merchants, Enchanters, and Gamblers. Improves the sale prices of your own goods. Only one Barter spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">12% improvement in vendor prices </span>
+    </td><td>46
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest?cb=20120926045556" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell barter" class="lzy lzyPlcHld " data-image-key="Spell_barter.jpg" data-image-name="Spell barter.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest/scale-to-width-down/50?cb=20120926045556" width="50" height="44" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest/scale-to-width-down/50?cb=20120926045556" 	 alt="Spell barter"  	class="" 	 	data-image-key="Spell_barter.jpg" 	data-image-name="Spell barter.jpg" 	 	 width="50"  	 height="44"  	 	 	 	></noscript></a>
+    </td><td>Barter V
+    </td><td>Reduces the purchase prices at Merchants, Enchanters, and Gamblers. Improves the sale prices of your own goods. Only one Barter spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">15% improvement in vendor prices </span>
+    </td><td>60
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest?cb=20120926045556" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell barter" class="lzy lzyPlcHld " data-image-key="Spell_barter.jpg" data-image-name="Spell barter.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest/scale-to-width-down/50?cb=20120926045556" width="50" height="44" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/9/9c/Spell_barter.jpg/revision/latest/scale-to-width-down/50?cb=20120926045556" 	 alt="Spell barter"  	class="" 	 	data-image-key="Spell_barter.jpg" 	data-image-name="Spell barter.jpg" 	 	 width="50"  	 height="44"  	 	 	 	></noscript></a>
+    </td><td>Barter VI
+    </td><td>Reduces the purchase prices at Merchants, Enchanters, and Gamblers. Improves the sale prices of your own goods. Only one Barter spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">18% improvement in vendor prices</span>
+    </td><td>76
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest?cb=20120926042823" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell blocking" class="lzy lzyPlcHld " data-image-key="Spell_blocking.jpg" data-image-name="Spell blocking.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest/scale-to-width-down/50?cb=20120926042823" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest/scale-to-width-down/50?cb=20120926042823" 	 alt="Spell blocking"  	class="" 	 	data-image-key="Spell_blocking.jpg" 	data-image-name="Spell blocking.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Blocking I
+    </td><td>Increases the chance to block with a shield. Only one Blocking spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">2% chance to Block</span>
+    </td><td>1
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest?cb=20120926042823" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell blocking" class="lzy lzyPlcHld " data-image-key="Spell_blocking.jpg" data-image-name="Spell blocking.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest/scale-to-width-down/50?cb=20120926042823" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest/scale-to-width-down/50?cb=20120926042823" 	 alt="Spell blocking"  	class="" 	 	data-image-key="Spell_blocking.jpg" 	data-image-name="Spell blocking.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Blocking II
+    </td><td>Increases the chance to block with a shield. Only one Blocking spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">4% chance to Block </span>
+    </td><td>16
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest?cb=20120926042823" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell blocking" class="lzy lzyPlcHld " data-image-key="Spell_blocking.jpg" data-image-name="Spell blocking.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest/scale-to-width-down/50?cb=20120926042823" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest/scale-to-width-down/50?cb=20120926042823" 	 alt="Spell blocking"  	class="" 	 	data-image-key="Spell_blocking.jpg" 	data-image-name="Spell blocking.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Blocking III
+    </td><td>Increases the chance to block with a shield. Only one Blocking spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">6% chance to Block</span>
+    </td><td>31
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest?cb=20120926042823" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell blocking" class="lzy lzyPlcHld " data-image-key="Spell_blocking.jpg" data-image-name="Spell blocking.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest/scale-to-width-down/50?cb=20120926042823" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest/scale-to-width-down/50?cb=20120926042823" 	 alt="Spell blocking"  	class="" 	 	data-image-key="Spell_blocking.jpg" 	data-image-name="Spell blocking.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Blocking IV
+    </td><td>Increases the chance to block with a shield. Only one Blocking spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">8% chance to Block </span>
+    </td><td>46
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest?cb=20120926042823" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell blocking" class="lzy lzyPlcHld " data-image-key="Spell_blocking.jpg" data-image-name="Spell blocking.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest/scale-to-width-down/50?cb=20120926042823" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest/scale-to-width-down/50?cb=20120926042823" 	 alt="Spell blocking"  	class="" 	 	data-image-key="Spell_blocking.jpg" 	data-image-name="Spell blocking.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Blocking V
+    </td><td>Increases the chance to block with a shield. Only one Blocking spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">10% chance to Block</span>
+    </td><td>60
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest?cb=20120926042823" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell blocking" class="lzy lzyPlcHld " data-image-key="Spell_blocking.jpg" data-image-name="Spell blocking.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest/scale-to-width-down/50?cb=20120926042823" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/d/d7/Spell_blocking.jpg/revision/latest/scale-to-width-down/50?cb=20120926042823" 	 alt="Spell blocking"  	class="" 	 	data-image-key="Spell_blocking.jpg" 	data-image-name="Spell blocking.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Blocking VI
+    </td><td>Increases the chance to block with a shield. Only one Blocking spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">12% chance to Block</span>
+    </td><td>76
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest?cb=20120928101510" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell concentration" class="lzy lzyPlcHld " data-image-key="Spell_concentration.jpg" data-image-name="Spell concentration.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest/scale-to-width-down/50?cb=20120928101510" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest/scale-to-width-down/50?cb=20120928101510" 	 alt="Spell concentration"  	class="" 	 	data-image-key="Spell_concentration.jpg" 	data-image-name="Spell concentration.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Concentration I
+    </td><td>Concentration improves Mana recharge rate at all times. Only one Concentration spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">1 Mana recovery</span>
+    </td><td>1
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest?cb=20120928101510" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell concentration" class="lzy lzyPlcHld " data-image-key="Spell_concentration.jpg" data-image-name="Spell concentration.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest/scale-to-width-down/50?cb=20120928101510" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest/scale-to-width-down/50?cb=20120928101510" 	 alt="Spell concentration"  	class="" 	 	data-image-key="Spell_concentration.jpg" 	data-image-name="Spell concentration.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Concentration II
+    </td><td>Concentration improves Mana recharge rate at all times. Only one Concentration spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">2 Mana recovery </span>
+    </td><td>16
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest?cb=20120928101510" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell concentration" class="lzy lzyPlcHld " data-image-key="Spell_concentration.jpg" data-image-name="Spell concentration.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest/scale-to-width-down/50?cb=20120928101510" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest/scale-to-width-down/50?cb=20120928101510" 	 alt="Spell concentration"  	class="" 	 	data-image-key="Spell_concentration.jpg" 	data-image-name="Spell concentration.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Concentration III
+    </td><td>Concentration improves Mana recharge rate at all times. Only one Concentration spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">3 Mana recovery</span>
+    </td><td>31
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest?cb=20120928101510" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell concentration" class="lzy lzyPlcHld " data-image-key="Spell_concentration.jpg" data-image-name="Spell concentration.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest/scale-to-width-down/50?cb=20120928101510" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest/scale-to-width-down/50?cb=20120928101510" 	 alt="Spell concentration"  	class="" 	 	data-image-key="Spell_concentration.jpg" 	data-image-name="Spell concentration.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Concentration IV
+    </td><td>Concentration improves Mana recharge rate at all times. Only one Concentration spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">4 Mana recovery</span>
+    </td><td>46
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest?cb=20120928101510" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell concentration" class="lzy lzyPlcHld " data-image-key="Spell_concentration.jpg" data-image-name="Spell concentration.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest/scale-to-width-down/50?cb=20120928101510" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest/scale-to-width-down/50?cb=20120928101510" 	 alt="Spell concentration"  	class="" 	 	data-image-key="Spell_concentration.jpg" 	data-image-name="Spell concentration.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Concentration V
+    </td><td>Concentration improves Mana recharge rate at all times. Only one Concentration spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">5 Mana recovery</span>
+    </td><td>60
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest?cb=20120928101510" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell concentration" class="lzy lzyPlcHld " data-image-key="Spell_concentration.jpg" data-image-name="Spell concentration.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest/scale-to-width-down/50?cb=20120928101510" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/8/88/Spell_concentration.jpg/revision/latest/scale-to-width-down/50?cb=20120928101510" 	 alt="Spell concentration"  	class="" 	 	data-image-key="Spell_concentration.jpg" 	data-image-name="Spell concentration.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Concentration VI
+    </td><td>Concentration improves Mana recharge rate at all times. Only one Concentration spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">6 Mana recovery</span>
+    </td><td>76
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest?cb=20120926045646" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell dualWielding" class="lzy lzyPlcHld " data-image-key="Spell_dualWielding.jpg" data-image-name="Spell dualWielding.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest/scale-to-width-down/50?cb=20120926045646" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest/scale-to-width-down/50?cb=20120926045646" 	 alt="Spell dualWielding"  	class="" 	 	data-image-key="Spell_dualWielding.jpg" 	data-image-name="Spell dualWielding.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Dual Wielding I
+    </td><td>Improves damage of all weapons when dual wielding. Only one Dual Wielding spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">6% Damage bonus when Dual Wielding </span>
+    </td><td>1
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest?cb=20120926045646" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell dualWielding" class="lzy lzyPlcHld " data-image-key="Spell_dualWielding.jpg" data-image-name="Spell dualWielding.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest/scale-to-width-down/50?cb=20120926045646" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest/scale-to-width-down/50?cb=20120926045646" 	 alt="Spell dualWielding"  	class="" 	 	data-image-key="Spell_dualWielding.jpg" 	data-image-name="Spell dualWielding.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Dual Wielding II
+    </td><td>Improves damage of all weapons when dual wielding. Only one Dual Wielding spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">12% Damage bonus when Dual Wielding </span>
+    </td><td>16
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest?cb=20120926045646" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell dualWielding" class="lzy lzyPlcHld " data-image-key="Spell_dualWielding.jpg" data-image-name="Spell dualWielding.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest/scale-to-width-down/50?cb=20120926045646" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest/scale-to-width-down/50?cb=20120926045646" 	 alt="Spell dualWielding"  	class="" 	 	data-image-key="Spell_dualWielding.jpg" 	data-image-name="Spell dualWielding.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Dual Wielding III
+    </td><td>Improves damage of all weapons when dual wielding. Only one Dual Wielding spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">18% Damage bonus when Dual Wielding</span>
+    </td><td>31
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest?cb=20120926045646" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell dualWielding" class="lzy lzyPlcHld " data-image-key="Spell_dualWielding.jpg" data-image-name="Spell dualWielding.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest/scale-to-width-down/50?cb=20120926045646" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest/scale-to-width-down/50?cb=20120926045646" 	 alt="Spell dualWielding"  	class="" 	 	data-image-key="Spell_dualWielding.jpg" 	data-image-name="Spell dualWielding.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Dual Wielding IV
+    </td><td>Improves damage of all weapons when dual wielding. Only one Dual Wielding spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">24% Damage bonus when Dual Wielding </span>
+    </td><td>46
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest?cb=20120926045646" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell dualWielding" class="lzy lzyPlcHld " data-image-key="Spell_dualWielding.jpg" data-image-name="Spell dualWielding.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest/scale-to-width-down/50?cb=20120926045646" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest/scale-to-width-down/50?cb=20120926045646" 	 alt="Spell dualWielding"  	class="" 	 	data-image-key="Spell_dualWielding.jpg" 	data-image-name="Spell dualWielding.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Dual Wielding V
+    </td><td>Improves damage of all weapons when dual wielding. Only one Dual Wielding spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">30% Damage bonus when Dual Wielding</span>
+    </td><td>60
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest?cb=20120926045646" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell dualWielding" class="lzy lzyPlcHld " data-image-key="Spell_dualWielding.jpg" data-image-name="Spell dualWielding.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest/scale-to-width-down/50?cb=20120926045646" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/4/42/Spell_dualWielding.jpg/revision/latest/scale-to-width-down/50?cb=20120926045646" 	 alt="Spell dualWielding"  	class="" 	 	data-image-key="Spell_dualWielding.jpg" 	data-image-name="Spell dualWielding.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Dual Wielding VI
+    </td><td>Improves damage of all weapons when dual wielding. Only one Dual Wielding spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">36% Damage bonus when Dual Wielding</span>
+    </td><td>76
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest?cb=20120926222116" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell marksmanship" class="lzy lzyPlcHld " data-image-key="Spell_marksmanship.jpg" data-image-name="Spell marksmanship.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest/scale-to-width-down/50?cb=20120926222116" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest/scale-to-width-down/50?cb=20120926222116" 	 alt="Spell marksmanship"  	class="" 	 	data-image-key="Spell_marksmanship.jpg" 	data-image-name="Spell marksmanship.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Marksmanship I
+    </td><td>Grants increased damage to and reduces requirements of Bows, Crossbows, Pistols, and Rifles. Only one rank of Marksmanship may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-1 to ranged equipment requirements<br>+4% Ranged Weapon Damage</span>
+    </td><td>1
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest?cb=20120926222116" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell marksmanship" class="lzy lzyPlcHld " data-image-key="Spell_marksmanship.jpg" data-image-name="Spell marksmanship.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest/scale-to-width-down/50?cb=20120926222116" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest/scale-to-width-down/50?cb=20120926222116" 	 alt="Spell marksmanship"  	class="" 	 	data-image-key="Spell_marksmanship.jpg" 	data-image-name="Spell marksmanship.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Marksmanship II
+    </td><td>Grants increased damage to and reduces requirements of Bows, Crossbows, Pistols, and Rifles. Only one rank of Marksmanship may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-2 to ranged equipment requirements<br>+8% Ranged Weapon Damage</span>
+    </td><td>16
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest?cb=20120926222116" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell marksmanship" class="lzy lzyPlcHld " data-image-key="Spell_marksmanship.jpg" data-image-name="Spell marksmanship.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest/scale-to-width-down/50?cb=20120926222116" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest/scale-to-width-down/50?cb=20120926222116" 	 alt="Spell marksmanship"  	class="" 	 	data-image-key="Spell_marksmanship.jpg" 	data-image-name="Spell marksmanship.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Marksmanship III
+    </td><td>Grants increased damage to and reduces requirements of Bows, Crossbows, Pistols, and Rifles. Only one rank of Marksmanship may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-3 to ranged equipment requirements<br>+12% Ranged Weapon Damage</span>
+    </td><td>31
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest?cb=20120926222116" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell marksmanship" class="lzy lzyPlcHld " data-image-key="Spell_marksmanship.jpg" data-image-name="Spell marksmanship.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest/scale-to-width-down/50?cb=20120926222116" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest/scale-to-width-down/50?cb=20120926222116" 	 alt="Spell marksmanship"  	class="" 	 	data-image-key="Spell_marksmanship.jpg" 	data-image-name="Spell marksmanship.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Marksmanship IV
+    </td><td>Grants increased damage to and reduces requirements of Bows, Crossbows, Pistols, and Rifles. Only one rank of Marksmanship may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-4 to ranged equipment requirements<br>+16% Ranged Weapon Damage</span>
+    </td><td>46
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest?cb=20120926222116" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell marksmanship" class="lzy lzyPlcHld " data-image-key="Spell_marksmanship.jpg" data-image-name="Spell marksmanship.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest/scale-to-width-down/50?cb=20120926222116" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest/scale-to-width-down/50?cb=20120926222116" 	 alt="Spell marksmanship"  	class="" 	 	data-image-key="Spell_marksmanship.jpg" 	data-image-name="Spell marksmanship.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Marksmanship V
+    </td><td>Grants increased damage to and reduces requirements of Bows, Crossbows, Pistols, and Rifles. Only one rank of Marksmanship may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-5 to ranged equipment requirements<br>+20% Ranged Weapon Damage</span>
+    </td><td>60
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest?cb=20120926222116" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell marksmanship" class="lzy lzyPlcHld " data-image-key="Spell_marksmanship.jpg" data-image-name="Spell marksmanship.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest/scale-to-width-down/50?cb=20120926222116" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/9/94/Spell_marksmanship.jpg/revision/latest/scale-to-width-down/50?cb=20120926222116" 	 alt="Spell marksmanship"  	class="" 	 	data-image-key="Spell_marksmanship.jpg" 	data-image-name="Spell marksmanship.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Marksmanship VI
+    </td><td>Grants increased damage to and reduces requirements of Bows, Crossbows, Pistols, and Rifles. Only one rank of Marksmanship may be equipped at a time.
+    </td><td><span style="color: #2C82B5">-6 to ranged equipment requirements<br>+24% Ranged Weapon Damage</span>
+    </td><td>76
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest?cb=20120928100807" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell Treasurehunter" class="lzy lzyPlcHld " data-image-key="Spell_Treasurehunter.jpg" data-image-name="Spell Treasurehunter.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest/scale-to-width-down/50?cb=20120928100807" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest/scale-to-width-down/50?cb=20120928100807" 	 alt="Spell Treasurehunter"  	class="" 	 	data-image-key="Spell_Treasurehunter.jpg" 	data-image-name="Spell Treasurehunter.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Treasure Hunter I
+    </td><td>Increases the Chance to find Magic Items and Gold. Only one Treasure Hunter Spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">2% Increase in the amount of Gold found</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">2% Increase in magic-finding Luck</span>
+    </td><td>1
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest?cb=20120928100807" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell Treasurehunter" class="lzy lzyPlcHld " data-image-key="Spell_Treasurehunter.jpg" data-image-name="Spell Treasurehunter.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest/scale-to-width-down/50?cb=20120928100807" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest/scale-to-width-down/50?cb=20120928100807" 	 alt="Spell Treasurehunter"  	class="" 	 	data-image-key="Spell_Treasurehunter.jpg" 	data-image-name="Spell Treasurehunter.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Treasure Hunter II
+    </td><td>Increases the Chance to find Magic Items and Gold. Only one Treasure Hunter Spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">5% Increase in the amount of Gold found<br>5% Increase in magic-finding Luck</span>
+    </td><td>16
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest?cb=20120928100807" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell Treasurehunter" class="lzy lzyPlcHld " data-image-key="Spell_Treasurehunter.jpg" data-image-name="Spell Treasurehunter.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest/scale-to-width-down/50?cb=20120928100807" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest/scale-to-width-down/50?cb=20120928100807" 	 alt="Spell Treasurehunter"  	class="" 	 	data-image-key="Spell_Treasurehunter.jpg" 	data-image-name="Spell Treasurehunter.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Treasure Hunter III
+    </td><td>Increases the Chance to find Magic Items and Gold. Only one Treasure Hunter Spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">8% Increase in the amount of Gold found<br>8% Increase in magic-finding Luck</span>
+    </td><td>31
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest?cb=20120928100807" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell Treasurehunter" class="lzy lzyPlcHld " data-image-key="Spell_Treasurehunter.jpg" data-image-name="Spell Treasurehunter.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest/scale-to-width-down/50?cb=20120928100807" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest/scale-to-width-down/50?cb=20120928100807" 	 alt="Spell Treasurehunter"  	class="" 	 	data-image-key="Spell_Treasurehunter.jpg" 	data-image-name="Spell Treasurehunter.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Treasure Hunter IV
+    </td><td>Increases the Chance to find Magic Items and Gold. Only one Treasure Hunter Spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">10% Increase in the amount of Gold found<br>10% Increase in magic-finding Luck</span>
+    </td><td>46
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest?cb=20120928100807" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell Treasurehunter" class="lzy lzyPlcHld " data-image-key="Spell_Treasurehunter.jpg" data-image-name="Spell Treasurehunter.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest/scale-to-width-down/50?cb=20120928100807" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest/scale-to-width-down/50?cb=20120928100807" 	 alt="Spell Treasurehunter"  	class="" 	 	data-image-key="Spell_Treasurehunter.jpg" 	data-image-name="Spell Treasurehunter.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Treasure Hunter V
+    </td><td>Increases the Chance to find Magic Items and Gold. Only one Treasure Hunter Spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">13% Increase in the amount of Gold found<br>13% Increase in magic-finding Luck</span>
+    </td><td>60
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest?cb=20120928100807" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell Treasurehunter" class="lzy lzyPlcHld " data-image-key="Spell_Treasurehunter.jpg" data-image-name="Spell Treasurehunter.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest/scale-to-width-down/50?cb=20120928100807" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/b/be/Spell_Treasurehunter.jpg/revision/latest/scale-to-width-down/50?cb=20120928100807" 	 alt="Spell Treasurehunter"  	class="" 	 	data-image-key="Spell_Treasurehunter.jpg" 	data-image-name="Spell Treasurehunter.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Treasure Hunter VI
+    </td><td>Increases the Chance to find Magic Items and Gold. Only one Treasure Hunter Spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">15% Increase in the amount of Gold found</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">15% Increase in magic-finding Luck</span>
+    </td><td>76
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest?cb=20120926045714" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell willpower" class="lzy lzyPlcHld " data-image-key="Spell_willpower.jpg" data-image-name="Spell willpower.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest/scale-to-width-down/50?cb=20120926045714" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest/scale-to-width-down/50?cb=20120926045714" 	 alt="Spell willpower"  	class="" 	 	data-image-key="Spell_willpower.jpg" 	data-image-name="Spell willpower.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Willpower I
+    </td><td>Provides a Resistance to Slowing and Immobilizing effects.
+    </td><td><span style="color: #2C82B5">25% Slow Resistance<br>25% Immobilization Resistance.</span>
+    </td><td>1
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest?cb=20120926045714" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell willpower" class="lzy lzyPlcHld " data-image-key="Spell_willpower.jpg" data-image-name="Spell willpower.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest/scale-to-width-down/50?cb=20120926045714" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest/scale-to-width-down/50?cb=20120926045714" 	 alt="Spell willpower"  	class="" 	 	data-image-key="Spell_willpower.jpg" 	data-image-name="Spell willpower.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>WIllpower II
+    </td><td>Training that provides a resistance to slowing and immobiling effects. Only one rank of Willpower may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">30% Slow Resistance</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">30% Immobilization Resistance.</span>
+    </td><td>16
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest?cb=20120926045714" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell willpower" class="lzy lzyPlcHld " data-image-key="Spell_willpower.jpg" data-image-name="Spell willpower.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest/scale-to-width-down/50?cb=20120926045714" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest/scale-to-width-down/50?cb=20120926045714" 	 alt="Spell willpower"  	class="" 	 	data-image-key="Spell_willpower.jpg" 	data-image-name="Spell willpower.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Willpower III
+    </td><td>Training that provides a resistance to slowing and immobiling effects. Only one rank of Willpower may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">35% Slow Resistance</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">35% Immobilization Resistance.</span>
+    </td><td>31
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest?cb=20120926045714" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell willpower" class="lzy lzyPlcHld " data-image-key="Spell_willpower.jpg" data-image-name="Spell willpower.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest/scale-to-width-down/50?cb=20120926045714" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest/scale-to-width-down/50?cb=20120926045714" 	 alt="Spell willpower"  	class="" 	 	data-image-key="Spell_willpower.jpg" 	data-image-name="Spell willpower.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Willpower IV
+    </td><td>Training that provides a resistance to slowing and immobiling effects. Only one rank of Willpower may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">40% Slow Resistance</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">40% Immobilization Resistance.</span>
+    </td><td>46
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest?cb=20120926045714" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell willpower" class="lzy lzyPlcHld " data-image-key="Spell_willpower.jpg" data-image-name="Spell willpower.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest/scale-to-width-down/50?cb=20120926045714" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest/scale-to-width-down/50?cb=20120926045714" 	 alt="Spell willpower"  	class="" 	 	data-image-key="Spell_willpower.jpg" 	data-image-name="Spell willpower.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Willpower V
+    </td><td>Provides a Resistance to Slowing and Immobilizing effects.
+    </td><td><span style="color: #2C82B5">45% Slow Resistance<br>45% Immobilization Resistance.</span>
+    </td><td>60
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest?cb=20120926045714" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell willpower" class="lzy lzyPlcHld " data-image-key="Spell_willpower.jpg" data-image-name="Spell willpower.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest/scale-to-width-down/50?cb=20120926045714" width="50" height="50" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/e/ec/Spell_willpower.jpg/revision/latest/scale-to-width-down/50?cb=20120926045714" 	 alt="Spell willpower"  	class="" 	 	data-image-key="Spell_willpower.jpg" 	data-image-name="Spell willpower.jpg" 	 	 width="50"  	 height="50"  	 	 	 	></noscript></a>
+    </td><td>Willpower VI
+    </td><td>Training that provides a resistance to slowing and immobiling effects. Only one rank of Willpower may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">50% Slow Resistance</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">50% Immobilization Resistance.</span>
+    </td><td>76
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest?cb=20120926045733" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell weaponExpertise" class="lzy lzyPlcHld " data-image-key="Spell_weaponExpertise.jpg" data-image-name="Spell weaponExpertise.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20120926045733" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20120926045733" 	 alt="Spell weaponExpertise"  	class="" 	 	data-image-key="Spell_weaponExpertise.jpg" 	data-image-name="Spell weaponExpertise.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Weapons Expertise I
+    </td><td>Mastery of Claws, Swords, Axes, Maces, and Polearms. Only one Weapons Expertise Spell may be equipped at a time.
+    </td><td><span style="color: #2C82B5">-1 to Martial Equipment Requirements<br>+4% Melee Weapon Damage</span>
+    </td><td>1
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest?cb=20120926045733" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell weaponExpertise" class="lzy lzyPlcHld " data-image-key="Spell_weaponExpertise.jpg" data-image-name="Spell weaponExpertise.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20120926045733" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20120926045733" 	 alt="Spell weaponExpertise"  	class="" 	 	data-image-key="Spell_weaponExpertise.jpg" 	data-image-name="Spell weaponExpertise.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Weapon Expertise II
+    </td><td>Training that increases the damage and reduces the requirements of Swords, Axes, Maces and Polearms. Only one Weapons Expertise Spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-2 to Martial Equipment Requirements</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">+8% Melee Weapon Damage</span>
+    </td><td>16
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest?cb=20120926045733" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell weaponExpertise" class="lzy lzyPlcHld " data-image-key="Spell_weaponExpertise.jpg" data-image-name="Spell weaponExpertise.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20120926045733" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20120926045733" 	 alt="Spell weaponExpertise"  	class="" 	 	data-image-key="Spell_weaponExpertise.jpg" 	data-image-name="Spell weaponExpertise.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Weapon Expertise III
+    </td><td>Training that increases the damage and reduces the requirements of Swords, Axes, Maces and Polearms. Only one Weapons Expertise Spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-3 to Martial Equipment Requirements</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">+12% Melee Weapon Damage</span>
+    </td><td>31
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest?cb=20120926045733" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell weaponExpertise" class="lzy lzyPlcHld " data-image-key="Spell_weaponExpertise.jpg" data-image-name="Spell weaponExpertise.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20120926045733" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20120926045733" 	 alt="Spell weaponExpertise"  	class="" 	 	data-image-key="Spell_weaponExpertise.jpg" 	data-image-name="Spell weaponExpertise.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Weapon Expertise IV
+    </td><td>Training that increases the damage and reduces the requirements of Swords, Axes, Maces and Polearms. Only one Weapons Expertise Spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-4 to Martial Equipment Requirements</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">+16% Melee Weapon Damage</span>
+    </td><td>46
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest?cb=20120926045733" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell weaponExpertise" class="lzy lzyPlcHld " data-image-key="Spell_weaponExpertise.jpg" data-image-name="Spell weaponExpertise.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20120926045733" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20120926045733" 	 alt="Spell weaponExpertise"  	class="" 	 	data-image-key="Spell_weaponExpertise.jpg" 	data-image-name="Spell weaponExpertise.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Weapon Expertise V
+    </td><td>Training that increases the damage and reduces the requirements of Swords, Axes, Maces and Polearms. Only one Weapons Expertise Spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-5 to Martial Equipment Requirements</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">+20% Melee Weapon Damage</span>
+    </td><td>60
+    </td></tr>
+    <tr>
+    <td style="text-align: center;"><a href="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest?cb=20120926045733" class="image image-thumbnail"><img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" alt="Spell weaponExpertise" class="lzy lzyPlcHld " data-image-key="Spell_weaponExpertise.jpg" data-image-name="Spell weaponExpertise.jpg" data-src="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20120926045733" width="50" height="45" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}"><noscript><img src="https://vignette.wikia.nocookie.net/torchlight/images/d/de/Spell_weaponExpertise.jpg/revision/latest/scale-to-width-down/50?cb=20120926045733" 	 alt="Spell weaponExpertise"  	class="" 	 	data-image-key="Spell_weaponExpertise.jpg" 	data-image-name="Spell weaponExpertise.jpg" 	 	 width="50"  	 height="45"  	 	 	 	></noscript></a>
+    </td><td>Weapon Expertise VI
+    </td><td>Training that increases the damage and reduces the requirements of Swords, Axes, Maces and Polearms. Only one Weapons Expertise Spell may be equipped at a time.
+    </td><td><span style="color:rgb(44,130,181);">-6 to Martial Equipment Requirements</span><br style="color:rgb(44,130,181);"><span style="color:rgb(44,130,181);">+24% Melee Weapon Damage</span>
+    </td><td>76
     </td></tr></tbody><tfoot></tfoot></table>
